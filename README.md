@@ -12,5 +12,5 @@ A 128x128 SVG image of the Anthm logo. Here it is, scaled up to 512x512:
 A 1024x1025 PNG image of the Anthm logo. Here it is:
 
 <p align="center">
-    ![Anthym Logo PNG](/anthym.png)
+    <img src="/anthym.png" alt="Anthym Logo PNG">
 </p>
