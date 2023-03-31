@@ -16,9 +16,15 @@ A 1024x1024 PNG image of the Anthm logo. Here it is:
 </p>
 
 ## anthym32x32.png
-A 32 PNG image of the Anthm logo. Here it is:
+A 32x32 PNG image of the Anthm logo. Here it is:
 
 <p align="center">
     <img src="/anthym32x32.png" alt="Anthym Logo PNG 32x32">
 </p>
 
+## anthym512x512.png
+A 512x512 PNG image of the Anthm logo. Here it is:
+
+<p align="center">
+    <img src="/anthym512x512.png" alt="Anthym Logo PNG 512x512">
+</p>
